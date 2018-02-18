@@ -1,0 +1,36 @@
+#home{
+background-image: url("C:/Users/Gabriela/Documents/Projects/Broadway/resources/images/font.png");
+color:white;
+}
+body{
+  text-align: center;
+  font-family: helvetica;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+
+}
+a{
+  font-size: 18px;
+  color: white;
+}
+.footer
+{
+  background-color: dimgray;
+}
+h3{
+  font-size: 32px;
+  font-weight: bold;
+}
+h2{
+  color:white;
+  font-size: 23px;
+  background-image: url("C:/Users/Gabriela/Documents/Projects/Broadway/resources/images/font.png")
+}
+#copy{
+  font-size: 11px;
+}
+p{
+  font-size: 14px;
+}
